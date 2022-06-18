@@ -1,4 +1,4 @@
-from pytube import YouTube
+from pytybe import YouTube
 
 url=input('Enter your youtube video url: ')
 b=YouTube(url)
